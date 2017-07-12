@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "username": "testuser",
+        "password": "password",
+        "decks": [
+            {
+                "deckId": 1,
+                "deckName": "java",
+                "cards": [
+                    {
+                        "cardId": 1,
+                        "question": "something",
+                        "answer": "something"
+                    },
+                    {
+                        "cardId": 2,
+                        "question": "something else",
+                        "answer": "something else"
+                    }
+                ]
+            },
+            {
+                "deckId": 2,
+                "deckName": "javascript",
+                "cards": [
+                    {
+                        "cardId": 1,
+                        "question": "something",
+                        "answer": "something"
+                    },
+                    {
+                        "cardId": 2,
+                        "question": "something else",
+                        "answer": "something else"
+                    }
+                ]
+            },
+            {
+                "deckId": 3,
+                "deckName": "C#",
+                "cards": []
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "username": "Rob",
+        "password": "GBPTrtpr/4u3vRj8ub5Yv0s1ZGbLGCpcGyrDN9FBLwpASHZZYqrmwJuUT2i04MiXkrPGTSswMYGCep+5gIMs6tuBOZOo+bU+hTagy/+tGc38GJuvyuAmAwdPDhZUqYHJNt8VMhYKDaDQhBo3Dy5j4fVi521lovJLEyTFKaic+Fm6qgX2rVfwX0uB1Sthza0P1SzU66gMT8xc/MZ0dF5PGMAVFdRpQN0HUvLuTVt9XeQulI1WJgo4jWr/D+WiKBNPbgLTrYNV8y9CLuJIpZH7mAQM+jz+vqbLY+1VEAhNWCGPaznzCCjx0ZRYqen7DmaLWkLIRfUeG2LxjeN6TGRcCoBQLCoYnm23iEr8GLibo+10njlGcCZC1/oFIfqIMLn06kTK8GPO8XDfyya4tAkqRI7ZotX4aU1twqn4RxSFjFlNl9P/K/+OXc1SBJIByNmp0Yv46i/lRA2gQ13Q8WqeavZgTIwst6Zp7c44aGXwTLMlqQhfA8yVxDA8jwJDVdMNYuEaIIg9ZMAS7+lZXd3OE2OINuud+uYOhhzww8WcLOObj1hsGAA6g2ox4d3s27A3HjizgoMtegSIDPHclp0EOmc/omV0hvbQEHvYR6AtMC/HEPP9JE3JC1kSlZTOhh3Dw8/6DyXErOtTNSJ1dnHAAoblbraBJvYvAFsQB1bnf74=",
+        "decks": []
+    }
+]

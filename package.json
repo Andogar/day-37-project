@@ -1,0 +1,22 @@
+{
+  "name": "day-37",
+  "version": "1.0.0",
+  "description": "",
+  "main": "programs.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "crypto": "0.0.3",
+    "express": "^4.15.3",
+    "express-handlebars": "^3.0.0",
+    "express-session": "^1.15.3",
+    "file-system": "^2.2.2",
+    "mocha": "^3.4.2",
+    "supertest": "^3.0.0"
+  }
+}
